@@ -17,7 +17,7 @@ public class TestVideoGame {
         }
         Arrays.sort(tab);
 
-        System.out.println("Before sorting: ");
+        System.out.println("After sorting: ");
         for (int i = 0; i < tab.length; i++) {
             System.out.println(tab[i]);
         }
